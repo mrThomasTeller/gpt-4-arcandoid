@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Arkanoid Game</title>
+  <style>
+    canvas {
+      display: block;
+      margin: auto;
+      background-color: black;
+    }
+  </style>
+</head>
+
+<body>
+  <canvas id="gameCanvas" width="800" height="600"></canvas>
+  <script>
+    const canvas = document.getElementById('gameCanvas');
+  </script>
+  <script src="paddle.js"></script>
+  <script src="ball.js"></script>
+  <script src="bricks.js"></script>
+  <script src="collision.js"></script>
+  <script src="bonuses.js"></script>
+  <script src="score.js"></script>
+  <script src="game.js"></script>
+</body>
+
+</html>
