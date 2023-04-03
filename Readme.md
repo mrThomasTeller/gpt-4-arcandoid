@@ -1,5 +1,7 @@
 # Arkanoid Game
 
+Link: https://mrthomasteller.github.io/gpt-4-arcandoid/
+
 Arkanoid is a classic brick-breaker game built using HTML, Canvas, and JavaScript. The game features a paddle, a bouncing ball, and multiple layers of bricks that you need to destroy. There are various bonuses that add exciting gameplay elements like shooting, extra balls, and destructive balls.
 
 ## How to Play
